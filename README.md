@@ -1,4 +1,7 @@
 # rn-book
+
+![](https://user-gold-cdn.xitu.io/2019/1/11/1683c383829dd91e?w=705&h=400&f=png&s=8660)
+
 🚩开门见山，没有废话的react native学习书，持续更新完善中。
 
 * <a href="https://github.com/Jon-Millent/rn-book/blob/master/1-%E5%AE%89%E8%A3%85.MD">1-安装</a>
